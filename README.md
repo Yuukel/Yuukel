@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuukel&label=Profile%20views&color=0e75b6&style=flat" alt="yuukel" /> </p>
 
-- 🔭 I’m currently working on **school projects**
+- 🔭 I’m currently working on **music player front-end project**
 
 - 🌱 I’m currently learning **nothing**
 
