@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuukel&label=Profile%20views&color=0e75b6&style=flat" alt="yuukel" /> </p>
 
-- 🔭 I’m currently working on **music player front-end project**
+- 🔭 I’m currently working on **to-do list website**
 
 - 🌱 I’m currently learning **nothing**
 
-- 📫 How to reach me **guyon.theo68@outlook.com**
+- 📫 How to reach me **guyon.theo@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/theo-guyon/](https://www.linkedin.com/in/theo-guyon/)
 
-- ⚡ Fun fact **"Mauvaise nouvelle, on peut pas plaire à tout le monde."**
+- ⚡ Fun fact **"Essayer c'est le premier pas vers l'échec."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
