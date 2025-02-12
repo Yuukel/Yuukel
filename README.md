@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **to-do list website**
 
-- 🌱 I’m currently learning **nothing**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **guyon.theo@outlook.com**
 
